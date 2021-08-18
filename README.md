@@ -1,2 +1,2 @@
 # slideshow
-Slideshow com Javascript puto
+Slideshow com Javascript puro
